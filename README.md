@@ -1,2 +1,3 @@
 # ML-SIG-2019
 Official repository for BITS-ACM ML summer SIG - 2019
+There were 2 more tasks but owner was too lazy to complete the SIG....
